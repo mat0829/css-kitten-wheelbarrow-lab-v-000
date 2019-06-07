@@ -2,7 +2,7 @@
 
 .kitty-1 {
   position: relative;
-  z-index: 1;
+  z-index: 0;
   top: 276px;
   left: 129px;
 }
